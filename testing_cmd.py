@@ -1,4 +1,4 @@
 print("Hello World")
 """
-this program showcase
+this program showcases
 """
