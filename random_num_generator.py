@@ -1,5 +1,5 @@
 """
-this program sh
+this program sho
 """
 import random
 """for random number"""
