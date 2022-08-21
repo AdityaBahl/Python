@@ -1,5 +1,5 @@
 """
-this program showc
+this program showca
 """
 import random
 """for random number"""
