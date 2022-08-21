@@ -1,5 +1,5 @@
 """
-this program showcases ran
+this program showcases random 
 """
 import random
 """for random number"""
