@@ -1,4 +1,4 @@
-""
+""""
 import random
 """for random number"""
 # [0.0, 1.0)
@@ -9,7 +9,7 @@ print(random.randrange(10))
 print(random.randrange(1, 10))
 """for random number from 1(here) to 10(here), only odd"""
 print(random.randrange(1, 10, 2))
-"""a<=n<=b(i.e, includes b too, unlike randrange)"""
+"""a <= n <= b(i.e, includes b too, unlike randrange)"""
 print(random.randint(20, 30))
 """picks a random number from a group of values"""
 print(random.choice([1, 2, 3, 4]))
