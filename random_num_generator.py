@@ -1,5 +1,5 @@
 """
-this program showcases random number gener
+this program showcases random number genera
 """
 import random
 """for random number"""
