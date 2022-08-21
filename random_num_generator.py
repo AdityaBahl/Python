@@ -1,5 +1,5 @@
 """
-this pr
+this prog
 """
 import random
 """for random number"""
