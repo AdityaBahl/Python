@@ -1,4 +1,5 @@
-""""""
+"""
+"""
 import random
 """for random number"""
 # [0.0, 1.0)
