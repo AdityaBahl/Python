@@ -1,5 +1,5 @@
 """
-this program d prime number
+this program de prime number
 """
 
 
