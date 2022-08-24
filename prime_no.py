@@ -1,5 +1,5 @@
 """
-this program showcases prime numbe
+this program showcases prime number
 """
 
 
