@@ -1,5 +1,5 @@
 """
-this program deter prime number
+this program determ prime number
 """
 
 
