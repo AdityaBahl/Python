@@ -1,5 +1,5 @@
 """
-this program determine prime number
+this program determines prime number
 """
 
 
