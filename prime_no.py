@@ -1,5 +1,5 @@
 """
-this program showcases prime n
+this program showcases prime nu
 """
 
 
