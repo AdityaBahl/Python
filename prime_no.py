@@ -1,5 +1,5 @@
 """
-this program showcases p
+this program showcases prime 
 """
 
 
