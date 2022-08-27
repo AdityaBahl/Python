@@ -1,5 +1,5 @@
 """
-this program showcases funct
+this program showcases functi
 """
 
 
