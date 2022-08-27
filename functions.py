@@ -1,5 +1,5 @@
 """
-this program showcases fu
+this program showcases fun
 """
 
 
