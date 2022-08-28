@@ -1,5 +1,5 @@
 """
-this program showcases function overload
+this program showcases function overloading
 """
 
 
