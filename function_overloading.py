@@ -1,5 +1,5 @@
 """
-this program showcase
+this program showcases 
 """
 
 
