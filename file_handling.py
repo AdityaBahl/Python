@@ -1,5 +1,5 @@
 """
-this program showcases file hand
+this program showcases file handli
 """
 
 import pandas as pd
