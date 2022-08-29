@@ -1,5 +1,5 @@
 """
-this program sho
+this program show
 """
 
 import pandas as pd
