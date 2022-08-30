@@ -1,4 +1,5 @@
 """
+
 Write a python Program which does the following:
     1.Asks user to enter a range i.e. value of Low and High
     2.Randomly assigns a number in the given range[low to high]
@@ -34,5 +35,3 @@ while ch != "no":
         break
     print("Wanna Try Again?(yes/no)", count, "chances left!")
     ch = input()
-
-
