@@ -1,5 +1,5 @@
 """
-this program guesses the
+this program guesses a
 Write a python Program which does the following:
     1.Asks user to enter a range i.e. value of Low and High
     2.Randomly assigns a number in the given range[low to high]
