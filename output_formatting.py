@@ -1,6 +1,6 @@
-""
+"""
 # format of formatting:-
-#print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
+# print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
 import sys
 from math import pi
 import math
