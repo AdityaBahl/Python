@@ -1,5 +1,5 @@
 """
-this program showcases output formatting operat
+this program showcases output formatting operati
 """
 # format of formatting:-
 # print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
