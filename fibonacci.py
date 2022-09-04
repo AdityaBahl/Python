@@ -1,7 +1,7 @@
 """Uncomment the functions you want to learn"""
 
 """
-th
+thi
 """
 
 """def fib(n):
