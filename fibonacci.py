@@ -1,7 +1,7 @@
 """Uncomment the functions you want to learn"""
 
 """
-this progra
+this program
 """
 
 """def fib(n):
