@@ -1,7 +1,7 @@
 """Uncomment the functions you want to learn"""
 
 """
-this program showcases fibona
+this program showcases fibonac
 """
 
 """def fib(n):
